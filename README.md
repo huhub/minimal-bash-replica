@@ -27,7 +27,7 @@ Minimal shell taking bash as reference
 make
 ```
 
-##### Bonus compilation (adss wildcard functionality)
+##### Bonus compilation (ads wildcard functionality)
 
 ```shell
 make bonus
