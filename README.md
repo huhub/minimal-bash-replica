@@ -19,6 +19,12 @@ Minimal shell taking bash as reference
 
 - Interactive (prompt) and non-interactive modes (scripts)
 
+### Compilation Requirements
+
+- GNU Compiler Collection (gcc)
+- GNU make utility
+- GNU readline library
+
 ### Compilation instructions for Unix environments
 
 ##### Normal compilation
